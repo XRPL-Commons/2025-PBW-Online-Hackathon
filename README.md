@@ -1,9 +1,5 @@
 # 2025-PBW-Online-Hackathon
-PBW Online Hackathon Resources
-
-# May 2024 HAKS Hackathon
-
-
+PBW 2025 Online Hackathon Resources
 ------------
 ## links
 
