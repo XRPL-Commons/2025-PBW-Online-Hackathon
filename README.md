@@ -19,7 +19,6 @@ https://learn.xrpl.org
 https://docs.xrpl-commons.org
 
 
-
 -------
 ## Themes
 
@@ -42,6 +41,43 @@ https://docs.xrpl-commons.org
 - Humanitarian Aid: Transparent, crypto-native fundraising and aid distribution systems.
 
 
+-------
+## Workshops
+
+### Workshop 1
+What, Why & How to build a Blockchain Product
+March 3rd, 2025
+Monday 3PM CET 
+Hands on: create your first transaction on XRPL
+Luc Bocahut
+
+### Workshop 2
+XRPL in Action: Basic Transaction Types and Primitives
+March 7th, 2025
+Thursday 3PM CET
+Hands on: NFTs, memo fields
+Thomas Hussenet
+
+### Workshop 3
+XRPL in Action: Creating liquidity for your project on XRPL
+March 11th, 2025
+Monday 3PM CET
+Hands on: Token issuance and AMMs
+Thomas Hussenet
+
+### Workshop 4
+XRPL resources ??
+March 17th
+Monday 3PM
+Hands on: 
+Thomas Hussenet
+
+### Workshop 5
+AMA XRPL: Final review of criteria for the XRPL track evaluation
+March 21st
+Friday 3PM CET
+Hands on: AMA XRPL
+Luc Bocahut
 -----------
 
 ## Rules
