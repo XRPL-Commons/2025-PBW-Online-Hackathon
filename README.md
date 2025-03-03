@@ -15,45 +15,39 @@ https://xrpl.org
 ### learn the basics
 https://learn.xrpl.org
 
-### Create Wallets, Trustlines and Escrows
-https://github.com/XRPL-Commons/xrpl-commons-tutorials
-
-### EVM Documentation and setup
-https://github.com/XRPL-Commons/Jan2024_EVM_Links
-
-### Using and EVM smart contract
-https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md
-
-### Training Resources (April 2024)
-https://github.com/XRPL-Commons/xrpl-training-april-2024
+### Step by Step Coding Activities
+https://docs.xrpl-commons.org
 
 
 
 -------
 ## Themes
 
-#### __Finance & DeFi__
-##### _Revolutionizing financial interactions through blockchain technology._
-Explore the vast landscape of Finance & DeFi by innovating in areas like cross-border transactions, micropayments, tokenized payments, and digital wallets. Dive into decentralized exchanges, lending, asset management, and more to foster financial inclusion, develop personal finance tools, reimagine supply chain finance, enable crowdfunding, promote sustainable finance, and enhance risk management—all on the blockchain.
+### Agentic Frameworks
+- AI-driven autonomous agents interoperating on XRPL
+- AI-powered governance and decentralized decision-making tools
+- Blockchain-based provenance tracking for AI-generated content and transactions
+- Agentic organizations specializing in trading
 
-#### __Real World Assets__
-##### _Bridging tangible assets and blockchain._
-Transform the way we interact with tangible assets through the tokenization of everything from climate initiatives to ESG impact projects, insurance, and regulatory technologies. This theme invites participants to reimagine asset ownership and management, ensuring accessibility and transparency through blockchain technology.
+### Stablecoin & DeFi Tools for Businesses
+- Cross-border payment tools using stablecoins on XRPL
+- Solving for the counterparty trust problem
+- DeFi applications (lending, staking, automated payments)
+- Automation tools
+- Interoperability solutions between different chains using stablecoins as an anchor
 
-#### __UX and Gamification__
-##### _Crafting engaging blockchain experiences._
-Focus on the fusion of UX and Gamification to design captivating and intuitive solutions that aim to onboard the next billion users to blockchain technologies. This theme challenges participants to create user-friendly interfaces and rewarding experiences that demystify blockchain for the everyday user.
+### Crypto for Good
+- Financial Inclusion: AI-driven credit scoring, micro-lending, and savings tools for the unbanked.
+- Climate Resilience: Blockchain-powered climate data tracking, carbon credits, and decentralized energy solutions.
+- Humanitarian Aid: Transparent, crypto-native fundraising and aid distribution systems.
 
-#### __Digital Identity__
-##### _Innovating identity verification on the blockchain._
-Long: This theme is all about bringing new identity products to life within the blockchain ecosystem. From POAPs (Proof of Attendance Protocols) to certificates and verified credentials, participants are invited to redefine how digital identities are created, managed, and trusted across various platforms.
 
 -----------
 
 ## Rules
 
-- Build on Mainnet and XRPL EM Sidechain
-- All projects must have a component on mainnet
+- Build on the L1 Mainnet or Testnet
+- All projects must submit transactions to the L1
 
 ## Judging
 
@@ -63,16 +57,3 @@ Long: This theme is all about bringing new identity products to life within the 
 - demo (how well you articulate your solution for the user)
 - potential (the total value transacted on chain, the business model, and the potential reach)
 
-
--------------
-## Mentors
-
-
-- Luc (XRPL Commons) Business and General Technology
-- Guillaume (XRPL Commons) Technology
-
-
--------------
-## API Keys
-
-OpenAI Keys are available upon request
